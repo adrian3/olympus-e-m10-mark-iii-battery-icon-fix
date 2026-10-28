@@ -1,6 +1,6 @@
 # Olympus E-M10 Mark III: hide the full-battery icon
 
-Getting a clean HDMI feed from the Olympus OM-D E-M10 Mark III is frustrating: a persistent battery icon is added to the video, with no built-in option we found to turn it off. The latest official firmware listed by OM SYSTEM is version 1.2, released on [March 7, 2019](https://support.jp.omsystem.com/en/support/imsg/digicamera/download/software/firm/e1/). After this long, I am not counting on an official fix.
+Getting a clean HDMI feed from the Olympus OM-D E-M10 Mark III is frustrating: a persistent battery icon is added to the video, with no built-in option to turn it off. The latest official firmware listed by OM SYSTEM is version 1.2, released on [March 7, 2019](https://support.jp.omsystem.com/en/support/imsg/digicamera/download/software/firm/e1/). After this long, I am not counting on an official fix.
 
 ![The full-battery icon remains visible in the camera’s HDMI feed](images/olympus-battery-icon.jpg)
 
